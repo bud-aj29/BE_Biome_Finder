@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"geometry.info_screen_biome": {
+		"texturewidth": 184,
+		"textureheight": 8,
+		"visible_bounds_width": 27,
+		"visible_bounds_height": 9,
+		"visible_bounds_offset": [0, 4.5, 0],
+		"bones": [
+			{
+				"name": "biome_Screen1",
+				"pivot": [-115, 28, 169],
+				"cubes": [
+					{"origin": [101.5, 178, 250], "size": [184, 8, 0.01], "uv": [0, 0]}
+				]
+			}
+		]
+	}
+}

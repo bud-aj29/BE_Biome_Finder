@@ -1,0 +1,19 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Show biome where player is standing",
+		"name": "Biome_Finder 0.0.1",
+		"uuid": "36607155-a618-41b9-b9d0-e8ff46b76abe",
+		"version": [ 0,0,1 ],
+		"min_engine_version": [ 1, 20, 10 ]
+	},
+	"modules": [
+		{
+			"description": "",
+			"type": "resources",
+			"uuid": "7fb0f5eb-c2d2-48f8-9216-21b23b022ec6",
+			"version": [0, 0, 1]
+		}
+	]
+}
+

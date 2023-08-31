@@ -1,0 +1,139 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:player",
+      "materials": {
+	//addon materials
+	"info_screen": "entity_alphablend"
+	//end addon materials
+      },
+      "textures": {
+	//addon textures
+	"info_screen_biome_0": "textures/addon/biome/biome_0",
+	"info_screen_biome_1": "textures/addon/biome/biome_1",
+	"info_screen_biome_2": "textures/addon/biome/biome_2",
+	"info_screen_biome_3": "textures/addon/biome/biome_3",
+	"info_screen_biome_4": "textures/addon/biome/biome_4",
+	"info_screen_biome_5": "textures/addon/biome/biome_5",
+	"info_screen_biome_6": "textures/addon/biome/biome_6",
+	"info_screen_biome_7": "textures/addon/biome/biome_7",
+	"info_screen_biome_8": "textures/addon/biome/biome_8",
+	"info_screen_biome_9": "textures/addon/biome/biome_9",
+	"info_screen_biome_10": "textures/addon/biome/biome_10",
+	"info_screen_biome_11": "textures/addon/biome/biome_11",
+	"info_screen_biome_12": "textures/addon/biome/biome_12",
+	"info_screen_biome_13": "textures/addon/biome/biome_13",
+	"info_screen_biome_14": "textures/addon/biome/biome_14",
+	"info_screen_biome_15": "textures/addon/biome/biome_15",
+	"info_screen_biome_16": "textures/addon/biome/biome_16",
+	"info_screen_biome_17": "textures/addon/biome/biome_17",
+	"info_screen_biome_18": "textures/addon/biome/biome_18",
+	"info_screen_biome_19": "textures/addon/biome/biome_19",
+	"info_screen_biome_20": "textures/addon/biome/biome_20",
+	"info_screen_biome_21": "textures/addon/biome/biome_21",
+	"info_screen_biome_22": "textures/addon/biome/biome_22",
+	"info_screen_biome_23": "textures/addon/biome/biome_23",
+	"info_screen_biome_24": "textures/addon/biome/biome_24",
+	"info_screen_biome_25": "textures/addon/biome/biome_25",
+	"info_screen_biome_26": "textures/addon/biome/biome_26",
+	"info_screen_biome_27": "textures/addon/biome/biome_27",
+	"info_screen_biome_28": "textures/addon/biome/biome_28",
+	"info_screen_biome_29": "textures/addon/biome/biome_29",
+	"info_screen_biome_30": "textures/addon/biome/biome_30",
+	"info_screen_biome_31": "textures/addon/biome/biome_31",
+	"info_screen_biome_32": "textures/addon/biome/biome_32",
+	"info_screen_biome_33": "textures/addon/biome/biome_33",
+	"info_screen_biome_34": "textures/addon/biome/biome_34",
+	"info_screen_biome_35": "textures/addon/biome/biome_35",
+	"info_screen_biome_36": "textures/addon/biome/biome_36",
+	"info_screen_biome_37": "textures/addon/biome/biome_37",
+	"info_screen_biome_38": "textures/addon/biome/biome_38",
+	"info_screen_biome_39": "textures/addon/biome/biome_39",
+	"info_screen_biome_40": "textures/addon/biome/biome_40",
+	"info_screen_biome_41": "textures/addon/biome/biome_41",
+	"info_screen_biome_42": "textures/addon/biome/biome_42",
+	"info_screen_biome_43": "textures/addon/biome/biome_43",
+	"info_screen_biome_44": "textures/addon/biome/biome_44",
+	"info_screen_biome_45": "textures/addon/biome/biome_45",
+	"info_screen_biome_46": "textures/addon/biome/biome_46",
+	"info_screen_biome_47": "textures/addon/biome/biome_47",
+	"info_screen_biome_48": "textures/addon/biome/biome_48",
+	"info_screen_biome_49": "textures/addon/biome/biome_49",
+	"info_screen_biome_50": "textures/addon/biome/biome_50",
+	"info_screen_biome_51": "textures/addon/biome/biome_51",
+	"info_screen_biome_52": "textures/addon/biome/biome_52",
+	"info_screen_biome_53": "textures/addon/biome/biome_53",
+	"info_screen_biome_54": "textures/addon/biome/biome_54",
+	"info_screen_biome_55": "textures/addon/biome/biome_55",
+	"info_screen_biome_56": "textures/addon/biome/biome_56",
+	"info_screen_biome_57": "textures/addon/biome/biome_57",
+	"info_screen_biome_58": "textures/addon/biome/biome_58",
+	"info_screen_biome_59": "textures/addon/biome/biome_59",
+	"info_screen_biome_60": "textures/addon/biome/biome_60",
+	"info_screen_biome_61": "textures/addon/biome/biome_61",
+	"info_screen_biome_62": "textures/addon/biome/biome_62",
+	"info_screen_biome_63": "textures/addon/biome/biome_63",
+	"info_screen_biome_64": "textures/addon/biome/biome_64",
+	"info_screen_biome_65": "textures/addon/biome/biome_65",
+	"info_screen_biome_66": "textures/addon/biome/biome_66",
+	"info_screen_biome_67": "textures/addon/biome/biome_67",
+	"info_screen_biome_68": "textures/addon/biome/biome_68",
+	"info_screen_biome_69": "textures/addon/biome/biome_69",
+	"info_screen_biome_70": "textures/addon/biome/biome_70",
+	"info_screen_biome_71": "textures/addon/biome/biome_71",
+	"info_screen_biome_72": "textures/addon/biome/biome_72",
+	"info_screen_biome_73": "textures/addon/biome/biome_73",
+	"info_screen_biome_74": "textures/addon/biome/biome_74",
+	"info_screen_biome_75": "textures/addon/biome/biome_75",
+	"info_screen_biome_76": "textures/addon/biome/biome_76",
+	"info_screen_biome_77": "textures/addon/biome/biome_77",
+	"info_screen_biome_78": "textures/addon/biome/biome_78",
+	"info_screen_biome_79": "textures/addon/biome/biome_79",
+	"info_screen_biome_80": "textures/addon/biome/biome_80",
+	"info_screen_biome_81": "textures/addon/biome/biome_81",
+	"info_screen_biome_82": "textures/addon/biome/biome_82",
+	"info_screen_biome_83": "textures/addon/biome/biome_83",
+	"info_screen_biome_84": "textures/addon/biome/biome_84",
+	"info_screen_biome_85": "textures/addon/biome/biome_85",
+	"info_screen_biome_86": "textures/addon/biome/biome_86"
+	//end addon textures
+      },
+      "geometry": {
+	//addon geometry
+	"info_screen_biome": "geometry.info_screen_biome"
+	//end addon geometry
+      },
+      "scripts": {
+        "pre_animation": [
+          "variable.helmet_layer_visible = 1.0;", //Vanilla
+          "variable.leg_layer_visible = 1.0;", //Vanilla
+          "variable.boot_layer_visible = 1.0;", //Vanilla
+          "variable.chest_layer_visible = 1.0;", //Vanilla
+          "variable.attack_body_rot_y = Math.sin(360*Math.sqrt(variable.attack_time)) * 5.0;", //Vanilla
+          "variable.tcos0 = (math.cos(query.modified_distance_moved * 38.17) * query.modified_move_speed / variable.gliding_speed_value) * 57.3;", //Vanilla
+          "variable.first_person_rotation_factor = math.sin((1 - variable.attack_time) * 180.0);", //Vanilla
+          "variable.hand_bob = query.life_time < 0.01 ? 0.0 : variable.hand_bob + ((query.is_on_ground && query.is_alive ? math.clamp(math.sqrt(math.pow(query.position_delta(0), 2.0) + math.pow(query.position_delta(2), 2.0)), 0.0, 0.1) : 0.0) - variable.hand_bob) * 0.02;", //Vanilla
+          "variable.map_angle = math.clamp(1 - variable.player_x_rotation / 45.1, 0.0, 1.0);", //Vanilla
+          "variable.item_use_normalized = query.main_hand_item_use_duration / query.main_hand_item_max_duration;" ,  //Vanilla, add comma for addon
+	  
+	  //addon pre_animation	  
+	  "variable.info_screen_var_full_show_always = variable.is_first_person && !query.is_gliding && !query.is_swimming && !query.is_riding;",
+	  "variable.info_screen_var_biome = query.variant;"
+	  //end addon pre_animation
+        ]
+      },
+      "render_controllers": [
+        { "controller.render.player.first_person_spectator": "variable.is_first_person && query.is_spectator" }, //Vanilla
+        { "controller.render.player.third_person_spectator": "!variable.is_first_person && !variable.map_face_icon && query.is_spectator" }, //Vanilla
+        { "controller.render.player.first_person": "variable.is_first_person && !query.is_spectator" }, //Vanilla
+        { "controller.render.player.third_person": "!variable.is_first_person && !variable.map_face_icon && !query.is_spectator" }, //Vanilla
+        { "controller.render.player.map": "variable.map_face_icon" } , //Vanilla, add comma for addon
+	
+	//addon render_controllers
+	{ "controller.render.info_screen_biome": "variable.info_screen_var_full_show_always" }
+	//end addon render_controllers
+      ]
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+
+    "controller.render.info_screen_biome": {
+    
+      "arrays": {
+        "textures": {
+          "Array.text": [
+	  //addon texture array
+	  
+		"Texture.info_screen_biome_0",
+		"Texture.info_screen_biome_1",
+		"Texture.info_screen_biome_2",
+		"Texture.info_screen_biome_3",
+		"Texture.info_screen_biome_4",
+		"Texture.info_screen_biome_5",
+		"Texture.info_screen_biome_6",
+		"Texture.info_screen_biome_7",
+		"Texture.info_screen_biome_8",
+		"Texture.info_screen_biome_9",
+		"Texture.info_screen_biome_10",
+		"Texture.info_screen_biome_11",
+		"Texture.info_screen_biome_12",
+		"Texture.info_screen_biome_13",
+		"Texture.info_screen_biome_14",
+		"Texture.info_screen_biome_15",
+		"Texture.info_screen_biome_16",
+		"Texture.info_screen_biome_17",
+		"Texture.info_screen_biome_18",
+		"Texture.info_screen_biome_19",
+		"Texture.info_screen_biome_20",
+		"Texture.info_screen_biome_21",
+		"Texture.info_screen_biome_22",
+		"Texture.info_screen_biome_23",
+		"Texture.info_screen_biome_24",
+		"Texture.info_screen_biome_25",
+		"Texture.info_screen_biome_26",
+		"Texture.info_screen_biome_27",
+		"Texture.info_screen_biome_28",
+		"Texture.info_screen_biome_29",
+		"Texture.info_screen_biome_30",
+		"Texture.info_screen_biome_31",
+		"Texture.info_screen_biome_32",
+		"Texture.info_screen_biome_33",
+		"Texture.info_screen_biome_34",
+		"Texture.info_screen_biome_35",
+		"Texture.info_screen_biome_36",
+		"Texture.info_screen_biome_37",
+		"Texture.info_screen_biome_38",
+		"Texture.info_screen_biome_39",
+		"Texture.info_screen_biome_40",
+		"Texture.info_screen_biome_41",
+		"Texture.info_screen_biome_42",
+		"Texture.info_screen_biome_43",
+		"Texture.info_screen_biome_44",
+		"Texture.info_screen_biome_45",
+		"Texture.info_screen_biome_46",
+		"Texture.info_screen_biome_47",
+		"Texture.info_screen_biome_48",
+		"Texture.info_screen_biome_49",
+		"Texture.info_screen_biome_50",
+		"Texture.info_screen_biome_51",
+		"Texture.info_screen_biome_52",
+		"Texture.info_screen_biome_53",
+		"Texture.info_screen_biome_54",
+		"Texture.info_screen_biome_55",
+		"Texture.info_screen_biome_56",
+		"Texture.info_screen_biome_57",
+		"Texture.info_screen_biome_58",
+		"Texture.info_screen_biome_59",
+		"Texture.info_screen_biome_60",
+		"Texture.info_screen_biome_61",
+		"Texture.info_screen_biome_62",
+		"Texture.info_screen_biome_63",
+		"Texture.info_screen_biome_64",
+		"Texture.info_screen_biome_65",
+		"Texture.info_screen_biome_66",
+		"Texture.info_screen_biome_67",
+		"Texture.info_screen_biome_68",
+		"Texture.info_screen_biome_69",
+		"Texture.info_screen_biome_70",
+		"Texture.info_screen_biome_71",
+		"Texture.info_screen_biome_72",
+		"Texture.info_screen_biome_73",
+		"Texture.info_screen_biome_74",
+		"Texture.info_screen_biome_75",
+		"Texture.info_screen_biome_76",
+		"Texture.info_screen_biome_77",
+		"Texture.info_screen_biome_78",
+		"Texture.info_screen_biome_79",
+		"Texture.info_screen_biome_80",
+		"Texture.info_screen_biome_81",
+		"Texture.info_screen_biome_82",
+		"Texture.info_screen_biome_83",
+		"Texture.info_screen_biome_84",
+		"Texture.info_screen_biome_85",
+		"Texture.info_screen_biome_86"
+
+	  //end addon texture array
+          ]
+        }
+      },
+    
+      "geometry": "geometry.info_screen_biome",
+      "materials": [ { "*": "Material.info_screen" } ],
+      "ignore_lighting":true,
+      "textures": [ "Array.text[ variable.info_screen_var_biome ]" ],
+      "part_visibility": [ { "*": true }, { "head": false } ]
+
+    }
+  }
+}
