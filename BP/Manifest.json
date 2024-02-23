@@ -1,25 +1,40 @@
 {
-	"format_version": 2,
-	"header": {
-		"description": "Show biome where player is standing",
-		"name": "Biome_Finder 0.0.1",
-		"uuid": "ffd2f050-640e-4130-8232-8b6191dc4661",
-		"version": [ 0,0,1 ],
-		"min_engine_version": [ 1, 20, 10 ]
-	},
-	"modules": [
-		{
-			"description": "",
-			"type": "data",
-			"uuid": "9d8a69ee-5a5b-4bb8-ae54-029eb482492d",
-			"version": [0, 0, 1]
-		}
-	],
-    "dependencies": [
-        {
-            "uuid": "36607155-a618-41b9-b9d0-e8ff46b76abe",
-            "version": [ 0,0,1 ]
-        }
+  "format_version": 2,
+  "header": {
+    "description": "Show biome where player is standing",
+    "name": "Biome_Finder_v0.0.2",
+    "uuid": "5ff913a1-60d4-44d9-a55b-2aad754d10fe",
+    "version": [
+      0,
+      0,
+      2
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      60
     ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "a9c98684-b2da-47a2-b74b-b87edff879c6",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "7bf5e429-651a-43b7-a5cf-a92f6280b30e",
+      "version": [
+        0,
+        0,
+        2
+      ]
+    }
+  ]
 }
-
